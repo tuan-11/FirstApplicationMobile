@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="information">Thông tin Sinh Viên</string>
+    <string name="myname">Họ Tên</string>
+    <string name="mssv">MSSV</string>
+    <string name="address">Địa Chỉ</string>
+    <string name="phoneNumber">Số Điện Thoại</string>
+    <string name="account">Tài khoản: </string>
+    <string name="nameaccount"></string>
+    <string name="helloAndroid">Chào mừng bạn đến với Android</string>
+</resources>
